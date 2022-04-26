@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolu713
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning Xcode
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
